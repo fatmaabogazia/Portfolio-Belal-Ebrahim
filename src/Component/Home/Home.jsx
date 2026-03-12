@@ -40,8 +40,8 @@ export default function Home() {
 
                 <div className='w-full flex justify-center'>
                     <div className=" flex  w-19/20 flex-col pb-5">
-                        <h1 className='text-[#2F4F4F] capitalize text-4xl md:text-5xl font-bold mb-3 pb-0 leading-12 md:leading-15'>belal <br /> abdelmaksod</h1>
-                        <p className='text-[#2F4F4F] text-4xl font-400 leading-11 capitalize mt-0 mb-0 max-w-150'> Civil Engineer specialized in Infrastructure and Environment with experience in network planning.</p>
+                        <h1 className='text-[#2F4F4F] capitalize text-3xl sm:text-4xl md:text-5xl font-bold mb-1 md:mb-3 pb-0 leading-12 md:leading-15'>belal <br /> abdelmaksod</h1>
+                        <p className='text-[#2F4F4F] text-2xl sm:text-3xl md:text-4xl font-400 leading-9 md:leading-11 capitalize mt-0 mb-0 max-w-150'> Bauingenieur, spezialisiert auf Infrastruktur- und Umweltingenieurwesen, mit Erfahrung in der Planung von Versorgungsleitungen.</p>
                     </div>
                 </div>
             </div>
